@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top_section
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+    align-items: flex-end;
+    
+    
+}
+
+.image_container img
+{
+    border-radius: 70px;
+    overflow: hidden;
+}
+.container
+{
+    background-color: rgb(255, 245, 242);
+    min-height: 100vh;
+    border: 10px solid #1d1e4c;
+}
+.image_container img
+{
+
+    width: 200px;
+    margin-top: 90px;
+    margin-left: 200px;
+    display: auto;
+    
+    
+}
+.top_section
+{
+    font-size: 40px;
+    font-weight: bold;
+    color: #1d1e4c;
+}
+.top_section h2
+{
+    text-align: end;
+    font-size: 20px;
+}
+.content .text_items
+{
+    margin-right: 300px;
+}
+.container .man
+{
+    margin-left: 100px;
+    padding: 90px;
+    font-size: 6rem;
+    color: #04054b;
+
+
+}
+.container .paragraph
+{
+    font-size: medium;
+    margin-left: 10px;
+    padding-top: 20px;
+    letter-spacing: 1.2px;
+}
+.Biography .bio
+{
+    margin-left: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.Biography .bio-one{
+    font-size: medium;
+    margin-left: 100px;
+}
+.Biography .bio-second {
+    font-size: medium;
+    margin-left: 100px;
+    padding: 3px;
+}
+.Biography .bio-three 
+{
+    font-size: medium;
+    margin-left: 100px;
+
+}
+.Biography .bio-four
+{
+    font-size: medium;
+    margin-left: 100px;
+    padding: 3px;
+}
+.Biography .bio-five
+{
+    font-size: medium;
+    margin-left: 100px;
+    padding: 3px;
+}
+.Biography .bio-six
+{
+    font-size: medium;
+    margin-left: 100px;
+    padding: 3px;
+}
+.Biography .bio-seven 
+{
+    font-size: medium;
+    margin-left: 100px;
+    padding: 3px;
+}
+.Biography .bio-eight 
+{
+    font-size: medium;
+    margin-left: 100px;
+    padding: 3px;
+}
+.more-item .ek{
+     font-size: 2rem;
+    color: black;
+    margin: 30px;
+    margin-left: 100px;
+}
+.more-item .sk{
+    font-size: medium;
+   color: black;
+   margin-top: 3px;
+}
+
+.ft .tk
+{
+    text-align: end;
+    margin-right: 60px;
+    margin-bottom: 30px;
+    color: blue;
+}
